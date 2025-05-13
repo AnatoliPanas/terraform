@@ -1,4 +1,4 @@
 variable "bucket_name" {
   type        = string
-  default     = "160924-bucket-panas"
+  default     = "bucket-160924-panas"
 }
